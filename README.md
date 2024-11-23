@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eeisnha
-- 👀 I’m interested in Bishow
+- 👀 I’m interested in World
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :N/A
